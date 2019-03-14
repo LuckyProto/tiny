@@ -2,7 +2,7 @@
 Removes all spaces from a string 
 
 # Install
-$ npm install @LuckyProtp/tiny
+$ npm install @LuckyProto/tiny
 
 # Usage
 const tiny = require("@LuckyProto/tiny");
