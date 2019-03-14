@@ -2,10 +2,10 @@
 Removes all spaces from a string 
 
 # Install
-$ npm install @LuckyProto/tiny
+$ npm install @luckyproto/tiny
 
 # Usage
-const tiny = require("@LuckyProto/tiny");
+const tiny = require("@luckyproto/tiny");
 
 tiny("So much space!")
 // => "Somuchspace!"
