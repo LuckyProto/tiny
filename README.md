@@ -1,10 +1,10 @@
 # tiny
 Removes all spaces from a string 
 
-Install
+#Install
 $ npm install @LuckyProtp/tiny
 
-Usage
+#Usage
 const tiny = require("@LuckyProto/tiny");
 
 tiny("So much space!")
